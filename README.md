@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **mebsahle/mebsahle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Here are some ideas to get you started:
+- 👋 Hi I'm Mebatsion Sahle
+- 🧐 I'm interested in Backend Web Development, Machine Learning, and Cloud Computing
+- 🔭 I’m currently working on Python automation, Data Science Project
+- 🌱 I’m currently learning Google Cloud Computing
+- 👯 I’m looking to collaborate on any Open-Source Python Project
+- 🤔 I’m looking for help with Getting started with how to contribute to Open-Sorce Project
+- 💬 Ask me about anything
+- 📫 How to reach me: Gmail: mebatsionsahle@gmail.com or Telegram: @MebaGT
