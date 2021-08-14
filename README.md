@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Here are some ideas to get you started:
 - 👋 Hi I'm Mebatsion Sahle
 - 🧐 I'm interested in Backend Web Development, Machine Learning, and Cloud Computing
 - 🔭 I’m currently working on Python automation, Data Science Project
