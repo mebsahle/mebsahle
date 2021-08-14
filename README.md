@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Python automation, Data Science Project
 - 🌱 I’m currently learning Google Cloud Computing
 - 👯 I’m looking to collaborate on any Open-Source Python Project
-- 🤔 I’m looking for help with Getting started with how to contribute to Open-Sorce Project
+- 🤔 I’m looking for help with Getting started with how to contribute to Open-Source Project
 - 💬 Ask me about anything
 - 📫 How to reach me: Gmail: mebatsionsahle@gmail.com or Telegram: @MebaGT
