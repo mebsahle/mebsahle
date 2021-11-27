@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 -->
 - 👋 Hi I'm Mebatsion Sahle
 - 🧐 I'm interested in Backend Web Development, Machine Learning, and Cloud Computing
-- 🔭 I’m currently working on Python automation, Data Science Project
-- 🌱 I’m currently learning Google Cloud Computing
+- 🔭 I’m currently working on Python automation, Django Project
+<!-- 🔭 I’m currently working on Python automation, Data Science Project -->
+<!-- 🌱 I’m currently learning Google Cloud Computing -->
 - 👯 I’m looking to collaborate on any Open-Source Python Project
 - 🤔 I’m looking for help with Getting started with how to contribute to Open-Source Project
 - 💬 Ask me about anything
