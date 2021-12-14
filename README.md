@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mebsahle&label=Profile%20views&color=ffba01&style=flat" alt="mebsahle" /> </p>
 - 👋 Hi I'm Mebatsion Sahle
 - 🧐 I'm interested in Backend Web Development, Machine Learning, and Cloud Computing
 - 🔭 I’m currently working on Python automation, Django Project
