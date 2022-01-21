@@ -16,12 +16,20 @@ Here are some ideas to get you started:
 -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mebsahle&label=Profile%20views&color=ffba01&style=flat" alt="mebsahle" /> </p>
 
-- 👋 Hi I'm Mebatsion Sahle
+<!-- - 👋 Hi I'm Mebatsion Sahle
 - 🧐 I'm interested in Backend Web Development, Machine Learning, and Cloud Computing
 - 🔭 I’m currently working on Python automation, Django Project
-<!-- 🔭 I’m currently working on Python automation, Data Science Project -->
-<!-- 🌱 I’m currently learning Google Cloud Computing -->
+<!-- 🔭 I’m currently working on Python automation, Data Science Project 
+<!-- 🌱 I’m currently learning Google Cloud Computing 
 - 👯 I’m looking to collaborate on any Open-Source Python Project
 - 🤔 I’m looking for help with Getting started with how to contribute to Open-Source Project
+- 💬 Ask me about anything
+- 📫 How to reach me: Gmail: mebatsionsahle@gmail.com or Telegram: @MebaGT
+ -->
+ 
+- 👋 Hi I'm Mebatsion Sahle
+- 🧐 I'm interested in Backend Web Development, Machine Learning, and Cloud Computing
+- 🔭 I’m currently working on UI design using Bootstrap 4
+- 🤔 I’m looking for help with PHP, better UI design skills
 - 💬 Ask me about anything
 - 📫 How to reach me: Gmail: mebatsionsahle@gmail.com or Telegram: @MebaGT
