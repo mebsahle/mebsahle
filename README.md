@@ -34,9 +34,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything
 - 📫 How to reach me: Gmail: mebatsionsahle@gmail.com or Telegram: @MebaGT -->
 
-👋 Hi I'm Mebatsion Sahle
-🧐 I'm interested in Backend Web Development, Machine Learning, and Cloud Computing
-🔭 I’m currently working on Data Science
-🤔 I’m looking for help with Open Source Contribution
-💬 Ask me about anything
-📫 How to reach me: Gmail: mebatsionsahle@gmail.com or Telegram: @MebaGT
+- 👋 Hi I'm Mebatsion Sahle
+- 🧐 I'm interested in Backend Web Development, Machine Learning, and Cloud Computing
+- 🔭 I’m currently working on Data Science
+- 🤔 I’m looking for help with Open Source Contribution
+- 💬 Ask me about anything
+- 📫 How to reach me: Gmail: mebatsionsahle@gmail.com or Telegram: @MebaGT
